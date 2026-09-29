@@ -1,0 +1,42 @@
+{
+  "content": {
+    "version": 1,
+    "projects": {
+      "animation": {
+        "title": "Meloody：风知道她来过",
+        "category": "实验与探索 / 动画",
+        "description": "米觅与珞蒂。",
+        "cover": null,
+        "media": null
+      },
+      "custom_muh86b5j_1v30t": {
+        "title": "光的结构",
+        "category": "实验与探索",
+        "description": "以亚克力板与木棍为主要材料，通过手工搭建形成几何结构，并借助自主布光，探索材料的透光特性、光影变化与空间层次。",
+        "cover": "assets/imported-68b1e04fdf05913a9068.jpg",
+        "media": [
+          {
+            "src": "assets/imported-1d26e403cfea4246bb6e.mp4",
+            "type": "video",
+            "name": "bb3482e2ee1ddcd1c4346178207fc015.mp4"
+          }
+        ]
+      }
+    },
+    "albums": {},
+    "pages": {
+      "home": {
+        "openingNote": "",
+        "openingEnglish": "",
+        "boardNote": ""
+      }
+    },
+    "newProjects": {
+      "custom_muh86b5j_1v30t": {
+        "title": "折叠空间",
+        "day": 5
+      }
+    }
+  },
+  "revision": 1
+}
